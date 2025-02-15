@@ -21,7 +21,7 @@ Welcome to the classic **Snake Game**! This is a simple implementation of the fa
 
 If you prefer to play without installing Java, just download the precompiled game:
 
-1. [Download the game zip file here](#) 📥
+1. [Download the game zip file here](https://www.dropbox.com/scl/fi/eqcc616xkela27kx0wsjc/Snake-Game.zip?rlkey=6mgdmz862mnyjefdy6jmkuj9f&st=idxv1wsn&dl=0) 📥
 2. Extract the zip file.
 3. Inside the extracted folder, you'll find `SnakeGame.exe` 💻.
 4. Double-click `SnakeGame.exe` to play the game without needing Java installed on your PC. 🎮
