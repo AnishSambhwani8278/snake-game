@@ -1,7 +1,3 @@
-Here's the updated GitHub README with emojis and the addition of a downloadable zip link:
-
----
-
 # 🐍 Snake Game 🕹️
 
 Welcome to the classic **Snake Game**! This is a simple implementation of the famous Snake game using Java Swing. Guide your snake to eat food, grow longer, and avoid crashing into walls or itself. 🐍🍏
